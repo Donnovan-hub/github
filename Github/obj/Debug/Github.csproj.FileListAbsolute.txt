@@ -1,0 +1,10 @@
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\bin\Debug\Github.exe.config
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\bin\Debug\Github.exe
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\bin\Debug\Github.pdb
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.Form1.resources
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.exe
+C:\Users\HOME\OneDrive\Escritorio\Github\Github\obj\Debug\Github.pdb
